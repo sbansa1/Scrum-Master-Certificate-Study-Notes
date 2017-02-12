@@ -1,11 +1,9 @@
-scrum
+Scrum
 =====
 
 Scrum Master Certificate Study Notes
 
 ---------------------------------------------------------------------------------------
-
-
 
  
 In Scrum, one needs to build the base components in first fewSprints. The Architects needs to start a couple of Sprints earlier thanDevelopment team.
@@ -115,7 +113,7 @@ Daily Scrum meetings-
 
 Focus of these meetings is only on Whats done the last day, thePlan for today and Impediments to the project.
 
-# The Focus is not to find solution to problems in this meeting.
+The Focus is not to find solution to problems in this meeting.
 
  Team should not address the status to Scrum Master but to theother team members. Important for Scrum Master to pass on thismessage by his Actions and facilitate the meetings in Accordance.-
 CSM Certification process
@@ -129,6 +127,8 @@ After attending the mandatory training from authorized provider,the Online exam 
 
 
 
+http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2016.pdf
 
+http://www.scrumstudy.com/FreeResources
 
 https://www.scribd.com/interest/Scrum-Software-Development/docs
